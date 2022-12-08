@@ -20,7 +20,7 @@
   <img src='fish.jpg' alt='fish.jpg' width='200' height='200'>
   <p>second image</p>
   <p style="text-align:center">
-  Here is a black fish</br>
+  Here is a black fish
   <img src='fish.jpg' alt='fish.jpg' width='250' height='150'>
   <hr />
   <p> This is text within element paragraph</p>
