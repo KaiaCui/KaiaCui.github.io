@@ -18,14 +18,14 @@
   <h3><b> This is text within heading 3 element</h3></b>
   <p>first image</p>
   <img src='fish.jpg' alt='fish.jpg' width='200' height='200'>
-  <p>second image</p>
-  <p style="text-align:center">
-  Here is a black fish
+  <p style="text-align:center"> 
+  Here is a black fish</br>
   <img src='fish.jpg' alt='fish.jpg' width='250' height='150'>
+   <p>the difiction of<a href="https://en.wikipedia.org/wiki/Fish" target="blank"> FISH</a>
+   </p>
   <hr />
   <p> This is text within element paragraph</p>
   <p> <i>This is anothert text within element paragraph</p></i>
-  
   <ul>
      <li>red</li>
 	 <li>green</li>
@@ -57,7 +57,7 @@
 	  </li>
     </ol>		 
 	<li>coffee</li>	  
-	<li><del>cola</del></li>
+	<li><del>co la</del></li>
   </dl>
  </body>
  </html>
